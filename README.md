@@ -1,4 +1,4 @@
-# basic-python-shell
+# basic and threaded python shells
 First in server.py and client.py we are creating a basic shell using subprocess module
 
 Then we use threads to allow more connections.

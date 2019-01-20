@@ -9,7 +9,7 @@ Then we use threads to allow more connections.
 - Assign t.daemon = True
 - Start the thread with t.start()
 
-2. Store the jobs in a queue because threades looking for jobs in queues and not in lists
+2. Store the jobs in a queue
 
 3. Create a work function and get the Queue
 - if the job id  is 1 then handle the connections
